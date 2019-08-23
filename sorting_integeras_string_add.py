@@ -1,3 +1,4 @@
+#sort the integer after comibination in digit level
 import time 
 a=[]
 n=int(input("enter number of integers"))
